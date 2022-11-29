@@ -6,6 +6,7 @@ from selenium import webdriver
 from selenium.webdriver import DesiredCapabilities
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.utils import ChromeType
 
 
 def scrape(sniff_urls: [str]):
@@ -31,8 +32,11 @@ def scrape(sniff_urls: [str]):
     })
 
     # caps["pageLoadStrategy"] = "eager"
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options,
-                              desired_capabilities=caps)
+    driver = webdriver.Chrome(
+        service=Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()),
+        options=options,
+        desired_capabilities=caps
+    )
     atexit.register(driver.quit)
     # driver.maximize_window()
 
