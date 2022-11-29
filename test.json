@@ -1,0 +1,5577 @@
+[
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "swapper"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 0,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "CrRendererMain"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 1,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 2153,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 5,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 2145,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2133,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 5,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Renderer"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "GPU Process"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Service: network.mojom.NetworkService"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Service: tracing.mojom.TracingService"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "HeadlessBrowser"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "1"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "3"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "4"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "2"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "5"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 2153,
+            "ts": 263457210
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -1
+            },
+            "cat": "__metadata",
+            "name": "process_sort_index",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 2153,
+            "ts": 263457241
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 5,
+            "ts": 263457299
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 2145,
+            "ts": 263457490
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2133,
+            "ts": 263458197
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -6
+            },
+            "cat": "__metadata",
+            "name": "process_sort_index",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2133,
+            "ts": 263458232
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 1,
+            "ts": 263458468
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -5
+            },
+            "cat": "__metadata",
+            "name": "process_sort_index",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 1,
+            "ts": 263458503
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -1
+            },
+            "cat": "__metadata",
+            "name": "thread_sort_index",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 1,
+            "ts": 263458505
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": true,
+                    "duration": 3096,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 3372,
+                    "processingStart": 3372,
+                    "timeStamp": 305,
+                    "type": "pointerover"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x52526a58",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 260073061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 3096,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 3372,
+                    "processingStart": 3372,
+                    "timeStamp": 305,
+                    "type": "pointerenter"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x5406ac24",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 260073061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 3096,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 3372,
+                    "processingStart": 3372,
+                    "timeStamp": 305,
+                    "type": "pointerenter"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x5406ac24",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 260073061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": true,
+                    "duration": 3096,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 2,
+                    "processingEnd": 3372,
+                    "processingStart": 3372,
+                    "timeStamp": 305,
+                    "type": "mouseover"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x5475056e",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 260073061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x5475056e",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263168288
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x5406ac24",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263168288
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x5406ac24",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263168288
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x52526a58",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263168288
+        }
+    },
+    {
+        "method": "Network.requestWillBeSent",
+        "params": {
+            "documentURL": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasUserGesture": false,
+            "initiator": {
+                "type": "other"
+            },
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Upgrade-Insecure-Requests": "1",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+                },
+                "initialPriority": "VeryHigh",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "strict-origin-when-cross-origin",
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+            "timestamp": 263.492111,
+            "type": "Document",
+            "wallTime": 1669743842.13749
+        }
+    },
+    {
+        "method": "Network.requestWillBeSentExtraInfo",
+        "params": {
+            "associatedCookies": [],
+            "connectTiming": {
+                "requestTime": 263.493467
+            },
+            "headers": {
+                ":authority": "www.chaojidianshi.net",
+                ":method": "GET",
+                ":path": "/zhibo/nowtv.html",
+                ":scheme": "https",
+                "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+                "accept-encoding": "gzip, deflate, br",
+                "accept-language": "en-US",
+                "sec-fetch-dest": "document",
+                "sec-fetch-mode": "navigate",
+                "sec-fetch-site": "none",
+                "sec-fetch-user": "?1",
+                "upgrade-insecure-requests": "1",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+            },
+            "requestId": "AABF679BA47790115D8A4CB0C361F76A"
+        }
+    },
+    {
+        "method": "Network.responseReceivedExtraInfo",
+        "params": {
+            "blockedCookies": [],
+            "headers": {
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+                "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "cf-ray": "771d26271cd35b3a-IAD",
+                "content-type": "text/html; charset=UTF-8",
+                "cross-origin-embedder-policy": "require-corp",
+                "cross-origin-opener-policy": "same-origin",
+                "cross-origin-resource-policy": "same-origin",
+                "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "permissions-policy": "accelerometer=(),autoplay=(),camera=(),clipboard-read=(),clipboard-write=(),fullscreen=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
+                "referrer-policy": "same-origin",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=m66aNrHTdpGdTg%2BfiWsKs92WgS9cvE8ih0a%2FcBxCXE5oNZqaUrvbp6XSCXemkT1PDNHp%2FfebkNYWmJmbKWc9QSbUSh%2FlwyPI08HMZQU66SqNBR9RmJp2%2FF509%2FXowbUDrehLR7EMymE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "server-timing": "cf-q-config;dur=7.9999990703072e-06",
+                "vary": "Accept-Encoding",
+                "x-frame-options": "SAMEORIGIN"
+            },
+            "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+            "resourceIPAddressSpace": "Public",
+            "statusCode": 503
+        }
+    },
+    {
+        "method": "Network.responseReceived",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasExtraInfo": true,
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+            "response": {
+                "connectionId": 13,
+                "connectionReused": false,
+                "encodedDataLength": 919,
+                "fromDiskCache": false,
+                "fromPrefetchCache": false,
+                "fromServiceWorker": false,
+                "headers": {
+                    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+                    "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                    "cf-ray": "771d26271cd35b3a-IAD",
+                    "content-type": "text/html; charset=UTF-8",
+                    "cross-origin-embedder-policy": "require-corp",
+                    "cross-origin-opener-policy": "same-origin",
+                    "cross-origin-resource-policy": "same-origin",
+                    "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                    "expires": "Thu, 01 Jan 1970 00:00:01 GMT",
+                    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                    "permissions-policy": "accelerometer=(),autoplay=(),camera=(),clipboard-read=(),clipboard-write=(),fullscreen=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()",
+                    "referrer-policy": "same-origin",
+                    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=m66aNrHTdpGdTg%2BfiWsKs92WgS9cvE8ih0a%2FcBxCXE5oNZqaUrvbp6XSCXemkT1PDNHp%2FfebkNYWmJmbKWc9QSbUSh%2FlwyPI08HMZQU66SqNBR9RmJp2%2FF509%2FXowbUDrehLR7EMymE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                    "server": "cloudflare",
+                    "server-timing": "cf-q-config;dur=7.9999990703072e-06",
+                    "vary": "Accept-Encoding",
+                    "x-frame-options": "SAMEORIGIN"
+                },
+                "mimeType": "text/html",
+                "protocol": "h2",
+                "remoteIPAddress": "172.67.138.50",
+                "remotePort": 443,
+                "responseTime": 1669743842425.321,
+                "securityDetails": {
+                    "certificateId": 0,
+                    "certificateTransparencyCompliance": "unknown",
+                    "cipher": "AES_128_GCM",
+                    "encryptedClientHello": false,
+                    "issuer": "GTS CA 1P5",
+                    "keyExchange": "",
+                    "keyExchangeGroup": "X25519",
+                    "protocol": "TLS 1.3",
+                    "sanList": [
+                        "*.chaojidianshi.net",
+                        "chaojidianshi.net"
+                    ],
+                    "serverSignatureAlgorithm": 2052,
+                    "signedCertificateTimestampList": [],
+                    "subjectName": "*.chaojidianshi.net",
+                    "validFrom": 1668247946,
+                    "validTo": 1676023945
+                },
+                "securityState": "secure",
+                "status": 503,
+                "statusText": "",
+                "timing": {
+                    "connectEnd": 255.217,
+                    "connectStart": 165.546,
+                    "dnsEnd": 165.546,
+                    "dnsStart": 139.173,
+                    "proxyEnd": -1,
+                    "proxyStart": -1,
+                    "pushEnd": 0,
+                    "pushStart": 0,
+                    "receiveHeadersEnd": 308.163,
+                    "requestTime": 263.493467,
+                    "sendEnd": 272.391,
+                    "sendStart": 272.115,
+                    "sslEnd": 255.189,
+                    "sslStart": 168.148,
+                    "workerFetchStart": -1,
+                    "workerReady": -1,
+                    "workerRespondWithSettled": -1,
+                    "workerStart": -1
+                },
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "timestamp": 263.840473,
+            "type": "Document"
+        }
+    },
+    {
+        "method": "Page.frameStartedLoading",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+        }
+    },
+    {
+        "method": "Page.frameNavigated",
+        "params": {
+            "frame": {
+                "adFrameStatus": {
+                    "adFrameType": "none"
+                },
+                "crossOriginIsolatedContextType": "Isolated",
+                "domainAndRegistry": "chaojidianshi.net",
+                "gatedAPIFeatures": [
+                    "SharedArrayBuffers",
+                    "SharedArrayBuffersTransferAllowed"
+                ],
+                "id": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+                "mimeType": "text/html",
+                "secureContextType": "Secure",
+                "securityOrigin": "https://www.chaojidianshi.net",
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "type": "Navigation"
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 8317,
+            "encodedDataLength": 0,
+            "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+            "timestamp": 263.878437
+        }
+    },
+    {
+        "method": "Network.requestWillBeSent",
+        "params": {
+            "documentURL": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasUserGesture": false,
+            "initiator": {
+                "columnNumber": 65,
+                "lineNumber": 8,
+                "type": "parser",
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Referer": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36",
+                    "sec-ch-ua": "",
+                    "sec-ch-ua-mobile": "?0",
+                    "sec-ch-ua-platform": ""
+                },
+                "initialPriority": "VeryHigh",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "same-origin",
+                "url": "https://www.chaojidianshi.net/cdn-cgi/styles/challenges.css"
+            },
+            "requestId": "2188.2",
+            "timestamp": 263.895245,
+            "type": "Stylesheet",
+            "wallTime": 1669743842.540641
+        }
+    },
+    {
+        "method": "Network.requestWillBeSent",
+        "params": {
+            "documentURL": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasUserGesture": false,
+            "initiator": {
+                "columnNumber": 79,
+                "lineNumber": 17,
+                "type": "parser",
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Referer": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36",
+                    "sec-ch-ua": "",
+                    "sec-ch-ua-mobile": "?0",
+                    "sec-ch-ua-platform": ""
+                },
+                "initialPriority": "Low",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "same-origin",
+                "url": "https://www.chaojidianshi.net/favicon.ico"
+            },
+            "requestId": "2188.3",
+            "timestamp": 263.896421,
+            "type": "Image",
+            "wallTime": 1669743842.541808
+        }
+    },
+    {
+        "method": "Network.requestWillBeSentExtraInfo",
+        "params": {
+            "associatedCookies": [],
+            "clientSecurityState": {
+                "initiatorIPAddressSpace": "Public",
+                "initiatorIsSecureContext": true,
+                "privateNetworkRequestPolicy": "PreflightWarn"
+            },
+            "connectTiming": {
+                "requestTime": 263.895728
+            },
+            "headers": {
+                ":authority": "www.chaojidianshi.net",
+                ":method": "GET",
+                ":path": "/cdn-cgi/styles/challenges.css",
+                ":scheme": "https",
+                "accept": "text/css,*/*;q=0.1",
+                "accept-encoding": "gzip, deflate, br",
+                "accept-language": "en-US",
+                "referer": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+                "sec-ch-ua": "",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "",
+                "sec-fetch-dest": "style",
+                "sec-fetch-mode": "no-cors",
+                "sec-fetch-site": "same-origin",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+            },
+            "requestId": "2188.2"
+        }
+    },
+    {
+        "method": "Network.requestWillBeSentExtraInfo",
+        "params": {
+            "associatedCookies": [],
+            "clientSecurityState": {
+                "initiatorIPAddressSpace": "Public",
+                "initiatorIsSecureContext": true,
+                "privateNetworkRequestPolicy": "PreflightWarn"
+            },
+            "connectTiming": {
+                "requestTime": 263.918319
+            },
+            "headers": {
+                ":authority": "www.chaojidianshi.net",
+                ":method": "GET",
+                ":path": "/favicon.ico",
+                ":scheme": "https",
+                "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+                "accept-encoding": "gzip, deflate, br",
+                "accept-language": "en-US",
+                "referer": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+                "sec-ch-ua": "",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "",
+                "sec-fetch-dest": "image",
+                "sec-fetch-mode": "no-cors",
+                "sec-fetch-site": "same-origin",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+            },
+            "requestId": "2188.3"
+        }
+    },
+    {
+        "method": "Network.responseReceivedExtraInfo",
+        "params": {
+            "blockedCookies": [],
+            "headers": {
+                "cache-control": "max-age=7200\npublic",
+                "cf-ray": "771d26280e295b3a-IAD",
+                "content-encoding": "gzip",
+                "content-type": "text/css",
+                "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                "etag": "W/\"637ccffa-1896\"",
+                "expires": "Tue, 29 Nov 2022 19:44:02 GMT",
+                "last-modified": "Tue, 22 Nov 2022 13:34:50 GMT",
+                "server": "cloudflare",
+                "vary": "Accept-Encoding",
+                "x-content-type-options": "nosniff",
+                "x-frame-options": "DENY"
+            },
+            "requestId": "2188.2",
+            "resourceIPAddressSpace": "Public",
+            "statusCode": 200
+        }
+    },
+    {
+        "method": "Network.loadingFinished",
+        "params": {
+            "encodedDataLength": 9263,
+            "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+            "shouldReportCorbBlocking": false,
+            "timestamp": 263.815252
+        }
+    },
+    {
+        "method": "Network.responseReceived",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasExtraInfo": true,
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "requestId": "2188.2",
+            "response": {
+                "connectionId": 13,
+                "connectionReused": true,
+                "encodedDataLength": 157,
+                "fromDiskCache": false,
+                "fromPrefetchCache": false,
+                "fromServiceWorker": false,
+                "headers": {
+                    "cache-control": "max-age=7200, public",
+                    "cf-ray": "771d26280e295b3a-IAD",
+                    "content-encoding": "gzip",
+                    "content-type": "text/css",
+                    "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                    "etag": "W/\"637ccffa-1896\"",
+                    "expires": "Tue, 29 Nov 2022 19:44:02 GMT",
+                    "last-modified": "Tue, 22 Nov 2022 13:34:50 GMT",
+                    "server": "cloudflare",
+                    "vary": "Accept-Encoding",
+                    "x-content-type-options": "nosniff",
+                    "x-frame-options": "DENY"
+                },
+                "mimeType": "text/css",
+                "protocol": "h2",
+                "remoteIPAddress": "172.67.138.50",
+                "remotePort": 443,
+                "responseTime": 1669743842567.9,
+                "securityDetails": {
+                    "certificateId": 0,
+                    "certificateTransparencyCompliance": "unknown",
+                    "cipher": "AES_128_GCM",
+                    "encryptedClientHello": false,
+                    "issuer": "GTS CA 1P5",
+                    "keyExchange": "",
+                    "keyExchangeGroup": "X25519",
+                    "protocol": "TLS 1.3",
+                    "sanList": [
+                        "*.chaojidianshi.net",
+                        "chaojidianshi.net"
+                    ],
+                    "serverSignatureAlgorithm": 2052,
+                    "signedCertificateTimestampList": [],
+                    "subjectName": "*.chaojidianshi.net",
+                    "validFrom": 1668247946,
+                    "validTo": 1676023945
+                },
+                "securityState": "secure",
+                "status": 200,
+                "statusText": "",
+                "timing": {
+                    "connectEnd": -1,
+                    "connectStart": -1,
+                    "dnsEnd": -1,
+                    "dnsStart": -1,
+                    "proxyEnd": -1,
+                    "proxyStart": -1,
+                    "pushEnd": 0,
+                    "pushStart": 0,
+                    "receiveHeadersEnd": 26.923,
+                    "requestTime": 263.895728,
+                    "sendEnd": 23.219,
+                    "sendStart": 22.925,
+                    "sslEnd": -1,
+                    "sslStart": -1,
+                    "workerFetchStart": -1,
+                    "workerReady": -1,
+                    "workerRespondWithSettled": -1,
+                    "workerStart": -1
+                },
+                "url": "https://www.chaojidianshi.net/cdn-cgi/styles/challenges.css"
+            },
+            "timestamp": 263.936882,
+            "type": "Stylesheet"
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 6294,
+            "encodedDataLength": 2622,
+            "requestId": "2188.2",
+            "timestamp": 263.953029
+        }
+    },
+    {
+        "method": "Network.loadingFinished",
+        "params": {
+            "encodedDataLength": 2779,
+            "requestId": "2188.2",
+            "shouldReportCorbBlocking": false,
+            "timestamp": 263.952305
+        }
+    },
+    {
+        "method": "Network.responseReceivedExtraInfo",
+        "params": {
+            "blockedCookies": [],
+            "headers": {
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+                "cache-control": "max-age=300",
+                "cf-cache-status": "HIT",
+                "cf-ray": "771d26280e2b5b3a-IAD",
+                "content-encoding": "br",
+                "content-type": "image/x-icon",
+                "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                "etag": "W/\"5784bfc0-57d6\"",
+                "last-modified": "Tue, 12 Jul 2016 10:00:32 GMT",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7811OGX9u4Lxu4NdgwO7QVq9vr7mFWsEj8l6Gw6sUC9nAXPqRxwOc2d7LrSInoVxYaAR8Uin9rYuD8e1bLjzbnbAzxW3Qt93fWmrBGA3fD%2FP0FVnTZV65rnxFYK1CaZG5WCzBKo78dw%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "server-timing": "cf-q-config;dur=3.9999995351536e-06",
+                "strict-transport-security": "max-age=31536000",
+                "vary": "Accept-Encoding"
+            },
+            "requestId": "2188.3",
+            "resourceIPAddressSpace": "Public",
+            "statusCode": 200
+        }
+    },
+    {
+        "method": "Network.requestWillBeSentExtraInfo",
+        "params": {
+            "associatedCookies": [],
+            "clientSecurityState": {
+                "initiatorIPAddressSpace": "Public",
+                "initiatorIsSecureContext": true,
+                "privateNetworkRequestPolicy": "PreflightWarn"
+            },
+            "connectTiming": {
+                "requestTime": 264.052438
+            },
+            "headers": {
+                ":authority": "www.chaojidianshi.net",
+                ":method": "GET",
+                ":path": "/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a",
+                ":scheme": "https",
+                "accept": "*/*",
+                "accept-encoding": "gzip, deflate, br",
+                "accept-language": "en-US",
+                "referer": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0",
+                "sec-ch-ua": "",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "",
+                "sec-fetch-dest": "script",
+                "sec-fetch-mode": "no-cors",
+                "sec-fetch-site": "same-origin",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+            },
+            "requestId": "2188.6"
+        }
+    },
+    {
+        "method": "Page.navigatedWithinDocument",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "url": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0"
+        }
+    },
+    {
+        "method": "Network.requestWillBeSent",
+        "params": {
+            "documentURL": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0",
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasUserGesture": false,
+            "initiator": {
+                "stack": {
+                    "callFrames": [
+                        {
+                            "columnNumber": 49,
+                            "functionName": "",
+                            "lineNumber": 87,
+                            "scriptId": "6",
+                            "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                        },
+                        {
+                            "columnNumber": 5,
+                            "functionName": "",
+                            "lineNumber": 88,
+                            "scriptId": "6",
+                            "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                        }
+                    ]
+                },
+                "type": "script"
+            },
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Referer": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36",
+                    "sec-ch-ua": "",
+                    "sec-ch-ua-mobile": "?0",
+                    "sec-ch-ua-platform": ""
+                },
+                "initialPriority": "Low",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "same-origin",
+                "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+            },
+            "requestId": "2188.6",
+            "timestamp": 264.050952,
+            "type": "Script",
+            "wallTime": 1669743842.696986
+        }
+    },
+    {
+        "method": "Network.requestWillBeSent",
+        "params": {
+            "documentURL": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0",
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasUserGesture": false,
+            "initiator": {
+                "columnNumber": 9,
+                "lineNumber": 89,
+                "type": "parser",
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0"
+            },
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Referer": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36",
+                    "sec-ch-ua": "",
+                    "sec-ch-ua-mobile": "?0",
+                    "sec-ch-ua-platform": ""
+                },
+                "initialPriority": "Low",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "same-origin",
+                "url": "https://www.chaojidianshi.net/cdn-cgi/images/trace/jsch/js/transparent.gif?ray=771d26271cd35b3a"
+            },
+            "requestId": "2188.7",
+            "timestamp": 264.058512,
+            "type": "Image",
+            "wallTime": 1669743842.703918
+        }
+    },
+    {
+        "method": "Network.requestWillBeSentExtraInfo",
+        "params": {
+            "associatedCookies": [],
+            "clientSecurityState": {
+                "initiatorIPAddressSpace": "Public",
+                "initiatorIsSecureContext": true,
+                "privateNetworkRequestPolicy": "PreflightWarn"
+            },
+            "connectTiming": {
+                "requestTime": 264.060182
+            },
+            "headers": {
+                ":authority": "www.chaojidianshi.net",
+                ":method": "GET",
+                ":path": "/cdn-cgi/images/trace/jsch/js/transparent.gif?ray=771d26271cd35b3a",
+                ":scheme": "https",
+                "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+                "accept-encoding": "gzip, deflate, br",
+                "accept-language": "en-US",
+                "referer": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0",
+                "sec-ch-ua": "",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "",
+                "sec-fetch-dest": "image",
+                "sec-fetch-mode": "no-cors",
+                "sec-fetch-site": "same-origin",
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+            },
+            "requestId": "2188.7"
+        }
+    },
+    {
+        "method": "Network.responseReceivedExtraInfo",
+        "params": {
+            "blockedCookies": [],
+            "headers": {
+                "accept-ranges": "bytes",
+                "cache-control": "max-age=7200\npublic",
+                "cf-ray": "771d2628ef3a5b3a-IAD",
+                "content-length": "42",
+                "content-type": "image/gif",
+                "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                "etag": "\"637ccffa-2a\"",
+                "expires": "Tue, 29 Nov 2022 19:44:02 GMT",
+                "last-modified": "Tue, 22 Nov 2022 13:34:50 GMT",
+                "server": "cloudflare",
+                "vary": "Accept-Encoding",
+                "x-content-type-options": "nosniff",
+                "x-frame-options": "DENY"
+            },
+            "requestId": "2188.7",
+            "resourceIPAddressSpace": "Public",
+            "statusCode": 200
+        }
+    },
+    {
+        "method": "Network.responseReceivedExtraInfo",
+        "params": {
+            "blockedCookies": [],
+            "headers": {
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+                "cache-control": "max-age=0, must-revalidate",
+                "cf-ray": "771d2628df315b3a-IAD",
+                "content-encoding": "br",
+                "content-type": "application/javascript; charset=UTF-8",
+                "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "priority": "u=3,i=?0",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AtfCNy6E90GemkdA4s9yhSwcEtqOaCUmIicSZskDS1t7D6FXgPCQ3HxDKytQpaPR%2BuhLm%2FmH1sMMDRb3pLSIM1JWpBRiO4BU6G58pq9qrtfGoO%2Fa1AiP3mrzx2MzrlS0LMZYjwKdhbo%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "server-timing": "cf-q-config;dur=6.0000002122251e-06"
+            },
+            "requestId": "2188.6",
+            "resourceIPAddressSpace": "Public",
+            "statusCode": 200
+        }
+    },
+    {
+        "method": "Network.resourceChangedPriority",
+        "params": {
+            "newPriority": "High",
+            "requestId": "2188.3",
+            "timestamp": 264.15065
+        }
+    },
+    {
+        "method": "Network.responseReceived",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasExtraInfo": true,
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "requestId": "2188.3",
+            "response": {
+                "connectionId": 13,
+                "connectionReused": true,
+                "encodedDataLength": 372,
+                "fromDiskCache": false,
+                "fromPrefetchCache": false,
+                "fromServiceWorker": false,
+                "headers": {
+                    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+                    "cache-control": "max-age=300",
+                    "cf-cache-status": "HIT",
+                    "cf-ray": "771d26280e2b5b3a-IAD",
+                    "content-encoding": "br",
+                    "content-type": "image/x-icon",
+                    "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                    "etag": "W/\"5784bfc0-57d6\"",
+                    "last-modified": "Tue, 12 Jul 2016 10:00:32 GMT",
+                    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7811OGX9u4Lxu4NdgwO7QVq9vr7mFWsEj8l6Gw6sUC9nAXPqRxwOc2d7LrSInoVxYaAR8Uin9rYuD8e1bLjzbnbAzxW3Qt93fWmrBGA3fD%2FP0FVnTZV65rnxFYK1CaZG5WCzBKo78dw%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                    "server": "cloudflare",
+                    "server-timing": "cf-q-config;dur=3.9999995351536e-06",
+                    "strict-transport-security": "max-age=31536000",
+                    "vary": "Accept-Encoding"
+                },
+                "mimeType": "image/x-icon",
+                "protocol": "h2",
+                "remoteIPAddress": "172.67.138.50",
+                "remotePort": 443,
+                "responseTime": 1669743842637.118,
+                "securityDetails": {
+                    "certificateId": 0,
+                    "certificateTransparencyCompliance": "unknown",
+                    "cipher": "AES_128_GCM",
+                    "encryptedClientHello": false,
+                    "issuer": "GTS CA 1P5",
+                    "keyExchange": "",
+                    "keyExchangeGroup": "X25519",
+                    "protocol": "TLS 1.3",
+                    "sanList": [
+                        "*.chaojidianshi.net",
+                        "chaojidianshi.net"
+                    ],
+                    "serverSignatureAlgorithm": 2052,
+                    "signedCertificateTimestampList": [],
+                    "subjectName": "*.chaojidianshi.net",
+                    "validFrom": 1668247946,
+                    "validTo": 1676023945
+                },
+                "securityState": "secure",
+                "status": 200,
+                "statusText": "",
+                "timing": {
+                    "connectEnd": -1,
+                    "connectStart": -1,
+                    "dnsEnd": -1,
+                    "dnsStart": -1,
+                    "proxyEnd": -1,
+                    "proxyStart": -1,
+                    "pushEnd": 0,
+                    "pushStart": 0,
+                    "receiveHeadersEnd": 73.681,
+                    "requestTime": 263.918319,
+                    "sendEnd": 0.664,
+                    "sendStart": 0.554,
+                    "sslEnd": -1,
+                    "sslStart": -1,
+                    "workerFetchStart": -1,
+                    "workerReady": -1,
+                    "workerRespondWithSettled": -1,
+                    "workerStart": -1
+                },
+                "url": "https://www.chaojidianshi.net/favicon.ico"
+            },
+            "timestamp": 264.160043,
+            "type": "Image"
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 22486,
+            "encodedDataLength": 0,
+            "requestId": "2188.3",
+            "timestamp": 264.160175
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 0,
+            "encodedDataLength": 9983,
+            "requestId": "2188.3",
+            "timestamp": 264.177133
+        }
+    },
+    {
+        "method": "Network.loadingFinished",
+        "params": {
+            "encodedDataLength": 10355,
+            "requestId": "2188.3",
+            "shouldReportCorbBlocking": false,
+            "timestamp": 263.993912
+        }
+    },
+    {
+        "method": "Network.responseReceived",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasExtraInfo": true,
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "requestId": "2188.7",
+            "response": {
+                "connectionId": 0,
+                "connectionReused": true,
+                "encodedDataLength": 214,
+                "fromDiskCache": false,
+                "fromPrefetchCache": false,
+                "fromServiceWorker": false,
+                "headers": {
+                    "accept-ranges": "bytes",
+                    "cache-control": "max-age=7200, public",
+                    "cf-ray": "771d2628ef3a5b3a-IAD",
+                    "content-length": "42",
+                    "content-type": "image/gif",
+                    "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                    "etag": "\"637ccffa-2a\"",
+                    "expires": "Tue, 29 Nov 2022 19:44:02 GMT",
+                    "last-modified": "Tue, 22 Nov 2022 13:34:50 GMT",
+                    "server": "cloudflare",
+                    "vary": "Accept-Encoding",
+                    "x-content-type-options": "nosniff",
+                    "x-frame-options": "DENY"
+                },
+                "mimeType": "image/gif",
+                "protocol": "h3",
+                "remoteIPAddress": "172.67.138.50",
+                "remotePort": 443,
+                "responseTime": 1669743842720.554,
+                "securityDetails": {
+                    "certificateId": 0,
+                    "certificateTransparencyCompliance": "unknown",
+                    "cipher": "AES_128_GCM",
+                    "encryptedClientHello": false,
+                    "issuer": "GTS CA 1P5",
+                    "keyExchange": "",
+                    "keyExchangeGroup": "X25519",
+                    "protocol": "QUIC",
+                    "sanList": [
+                        "*.chaojidianshi.net",
+                        "chaojidianshi.net"
+                    ],
+                    "serverSignatureAlgorithm": 2052,
+                    "signedCertificateTimestampList": [],
+                    "subjectName": "*.chaojidianshi.net",
+                    "validFrom": 1668247946,
+                    "validTo": 1676023945
+                },
+                "securityState": "secure",
+                "status": 200,
+                "statusText": "",
+                "timing": {
+                    "connectEnd": -1,
+                    "connectStart": -1,
+                    "dnsEnd": -1,
+                    "dnsStart": -1,
+                    "proxyEnd": -1,
+                    "proxyStart": -1,
+                    "pushEnd": 0,
+                    "pushStart": 0,
+                    "receiveHeadersEnd": 15.064,
+                    "requestTime": 264.060182,
+                    "sendEnd": 0.543,
+                    "sendStart": 0.441,
+                    "sslEnd": -1,
+                    "sslStart": -1,
+                    "workerFetchStart": -1,
+                    "workerReady": -1,
+                    "workerRespondWithSettled": -1,
+                    "workerStart": -1
+                },
+                "url": "https://www.chaojidianshi.net/cdn-cgi/images/trace/jsch/js/transparent.gif?ray=771d26271cd35b3a"
+            },
+            "timestamp": 264.177669,
+            "type": "Image"
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 42,
+            "encodedDataLength": 0,
+            "requestId": "2188.7",
+            "timestamp": 264.177835
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 0,
+            "encodedDataLength": 44,
+            "requestId": "2188.7",
+            "timestamp": 264.186596
+        }
+    },
+    {
+        "method": "Network.loadingFinished",
+        "params": {
+            "encodedDataLength": 258,
+            "requestId": "2188.7",
+            "shouldReportCorbBlocking": false,
+            "timestamp": 264.07727
+        }
+    },
+    {
+        "method": "Network.responseReceived",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasExtraInfo": true,
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "requestId": "2188.6",
+            "response": {
+                "connectionId": 0,
+                "connectionReused": false,
+                "encodedDataLength": 487,
+                "fromDiskCache": false,
+                "fromPrefetchCache": false,
+                "fromServiceWorker": false,
+                "headers": {
+                    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+                    "cache-control": "max-age=0, must-revalidate",
+                    "cf-ray": "771d2628df315b3a-IAD",
+                    "content-encoding": "br",
+                    "content-type": "application/javascript; charset=UTF-8",
+                    "date": "Tue, 29 Nov 2022 17:44:02 GMT",
+                    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                    "priority": "u=3,i=?0",
+                    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AtfCNy6E90GemkdA4s9yhSwcEtqOaCUmIicSZskDS1t7D6FXgPCQ3HxDKytQpaPR%2BuhLm%2FmH1sMMDRb3pLSIM1JWpBRiO4BU6G58pq9qrtfGoO%2Fa1AiP3mrzx2MzrlS0LMZYjwKdhbo%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                    "server": "cloudflare",
+                    "server-timing": "cf-q-config;dur=6.0000002122251e-06"
+                },
+                "mimeType": "application/javascript",
+                "protocol": "h3",
+                "remoteIPAddress": "172.67.138.50",
+                "remotePort": 443,
+                "responseTime": 1669743842722.902,
+                "securityDetails": {
+                    "certificateId": 0,
+                    "certificateTransparencyCompliance": "unknown",
+                    "cipher": "AES_128_GCM",
+                    "encryptedClientHello": false,
+                    "issuer": "GTS CA 1P5",
+                    "keyExchange": "",
+                    "keyExchangeGroup": "X25519",
+                    "protocol": "QUIC",
+                    "sanList": [
+                        "*.chaojidianshi.net",
+                        "chaojidianshi.net"
+                    ],
+                    "serverSignatureAlgorithm": 2052,
+                    "signedCertificateTimestampList": [],
+                    "subjectName": "*.chaojidianshi.net",
+                    "validFrom": 1668247946,
+                    "validTo": 1676023945
+                },
+                "securityState": "secure",
+                "status": 200,
+                "statusText": "",
+                "timing": {
+                    "connectEnd": 0,
+                    "connectStart": 0,
+                    "dnsEnd": 0,
+                    "dnsStart": 0,
+                    "proxyEnd": -1,
+                    "proxyStart": -1,
+                    "pushEnd": 0,
+                    "pushStart": 0,
+                    "receiveHeadersEnd": 25.217,
+                    "requestTime": 264.052438,
+                    "sendEnd": 0.957,
+                    "sendStart": 0.538,
+                    "sslEnd": 0,
+                    "sslStart": 0,
+                    "workerFetchStart": -1,
+                    "workerReady": -1,
+                    "workerRespondWithSettled": -1,
+                    "workerStart": -1
+                },
+                "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+            },
+            "timestamp": 264.186939,
+            "type": "Script"
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 53188,
+            "encodedDataLength": 0,
+            "requestId": "2188.6",
+            "timestamp": 264.187044
+        }
+    },
+    {
+        "method": "Page.domContentEventFired",
+        "params": {
+            "timestamp": 264.198142
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 0,
+            "encodedDataLength": 23546,
+            "requestId": "2188.6",
+            "timestamp": 264.216035
+        }
+    },
+    {
+        "method": "Network.loadingFinished",
+        "params": {
+            "encodedDataLength": 24033,
+            "requestId": "2188.6",
+            "shouldReportCorbBlocking": false,
+            "timestamp": 264.08019
+        }
+    },
+    {
+        "method": "Page.navigatedWithinDocument",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+        }
+    },
+    {
+        "method": "Network.requestWillBeSent",
+        "params": {
+            "documentURL": "https://www.chaojidianshi.net/zhibo/nowtv.html",
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasUserGesture": false,
+            "initiator": {
+                "columnNumber": 1,
+                "lineNumber": 102,
+                "type": "parser",
+                "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/107.0.5288.0 Safari/537.36"
+                },
+                "initialPriority": "Low",
+                "isSameSite": false,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "same-origin",
+                "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAMAAADypuvZAAAANlBMVEUAAAAxMTEwMDAxMTExMTEwMDAwMDAwMDAxMTExMTExMTEwMDAwMDAxMTExMTEwMDAwMDAxMTHB9N+uAAAAEXRSTlMA3zDvfyBAEJC/n3BQz69gX7VMkcMAAAGySURBVEjHnZZbFoMgDEQJiDzVuv/NtgbtFGuQ4/zUKpeMIQbUhXSKE5l1XSn4pFWHRm/WShT1HRLWC01LGxFEVkCc30eYkLJ1Sjk9pvkw690VY6k8DWP9OM9yMG0Koi+mi8XA36NXmW0UXra4eJ3iwHfrfXVlgL0NqqGBHdqfeQhMmyJ48WDuKP81h3+SMPeRKkJcSXiLUK4XTHCjESOnz1VUXQoc6lgi2x4cI5aTQ201Mt8wHysI5fc05M5c81uZEtHcMKhxZ7iYEty1GfhLvGKpm+EYkdGxm1F5axmcB93DoORIbXfdN7f+hlFuyxtDP+sxtBnF43cIYwaZAWRgzxIoiXEMESoPlMhwLRDXeK772CAzXEdBRV7cmnoVBp0OSlyGidEzJTFq5hhcsA5388oSGM6b5p+qjpZrBlMS9xj4AwXmz108ukU1IomM3ceiW0CDwHCqp1NjAqXlFrbga+xuloQJ+tuyfbIBPNpqnmxqT7dPaOnZqBfhSBCteJAxWj58zLk2xgg+SPGYM6dRO6WczSnIxxwEExRaO+UyCUhbOp7CGQ+kxSUfNtLQFC+Po29vvy7jj4y0yAAAAABJRU5ErkJggg=="
+            },
+            "requestId": "2188.8",
+            "timestamp": 264.336386,
+            "type": "Image",
+            "wallTime": 1669743842.981803
+        }
+    },
+    {
+        "method": "Network.requestServedFromCache",
+        "params": {
+            "requestId": "2188.8"
+        }
+    },
+    {
+        "method": "Network.responseReceived",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "hasExtraInfo": false,
+            "loaderId": "AABF679BA47790115D8A4CB0C361F76A",
+            "requestId": "2188.8",
+            "response": {
+                "connectionId": 0,
+                "connectionReused": false,
+                "encodedDataLength": 0,
+                "fromDiskCache": false,
+                "fromPrefetchCache": false,
+                "fromServiceWorker": false,
+                "headers": {
+                    "Content-Type": "image/png"
+                },
+                "mimeType": "image/png",
+                "protocol": "data",
+                "securityState": "unknown",
+                "status": 200,
+                "statusText": "OK",
+                "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAMAAADypuvZAAAANlBMVEUAAAAxMTEwMDAxMTExMTEwMDAwMDAwMDAxMTExMTExMTEwMDAwMDAxMTExMTEwMDAwMDAxMTHB9N+uAAAAEXRSTlMA3zDvfyBAEJC/n3BQz69gX7VMkcMAAAGySURBVEjHnZZbFoMgDEQJiDzVuv/NtgbtFGuQ4/zUKpeMIQbUhXSKE5l1XSn4pFWHRm/WShT1HRLWC01LGxFEVkCc30eYkLJ1Sjk9pvkw690VY6k8DWP9OM9yMG0Koi+mi8XA36NXmW0UXra4eJ3iwHfrfXVlgL0NqqGBHdqfeQhMmyJ48WDuKP81h3+SMPeRKkJcSXiLUK4XTHCjESOnz1VUXQoc6lgi2x4cI5aTQ201Mt8wHysI5fc05M5c81uZEtHcMKhxZ7iYEty1GfhLvGKpm+EYkdGxm1F5axmcB93DoORIbXfdN7f+hlFuyxtDP+sxtBnF43cIYwaZAWRgzxIoiXEMESoPlMhwLRDXeK772CAzXEdBRV7cmnoVBp0OSlyGidEzJTFq5hhcsA5388oSGM6b5p+qjpZrBlMS9xj4AwXmz108ukU1IomM3ceiW0CDwHCqp1NjAqXlFrbga+xuloQJ+tuyfbIBPNpqnmxqT7dPaOnZqBfhSBCteJAxWj58zLk2xgg+SPGYM6dRO6WczSnIxxwEExRaO+UyCUhbOp7CGQ+kxSUfNtLQFC+Po29vvy7jj4y0yAAAAABJRU5ErkJggg=="
+            },
+            "timestamp": 264.336487,
+            "type": "Image"
+        }
+    },
+    {
+        "method": "Network.dataReceived",
+        "params": {
+            "dataLength": 586,
+            "encodedDataLength": 0,
+            "requestId": "2188.8",
+            "timestamp": 264.336507
+        }
+    },
+    {
+        "method": "Network.loadingFinished",
+        "params": {
+            "encodedDataLength": 0,
+            "requestId": "2188.8",
+            "shouldReportCorbBlocking": false,
+            "timestamp": 264.336514
+        }
+    },
+    {
+        "method": "Page.loadEventFired",
+        "params": {
+            "timestamp": 264.341242
+        }
+    },
+    {
+        "method": "Page.frameScheduledNavigation",
+        "params": {
+            "delay": 35,
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+            "reason": "metaTagRefresh",
+            "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+        }
+    },
+    {
+        "method": "Page.frameStoppedLoading",
+        "params": {
+            "frameId": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "swapper"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 0,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "CrBrowserMain"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2114,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "CrRendererMain"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2177,
+            "tid": 1,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "CrRendererMain"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 1,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "CrRendererMain"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 1,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 3,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 2142,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 2153,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2132,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "ThreadPoolForegroundWorker"
+            },
+            "cat": "__metadata",
+            "name": "thread_name",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 5,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Service: network.mojom.NetworkService"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "GPU Process"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "HeadlessBrowser"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Service: tracing.mojom.TracingService"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Renderer"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Renderer"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2177,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "name": "Renderer"
+            },
+            "cat": "__metadata",
+            "name": "process_name",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "5"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "4"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "6"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "3"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "2"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2158,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "0"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2177,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "uptime": "0"
+            },
+            "cat": "__metadata",
+            "name": "process_uptime_seconds",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 0,
+            "ts": 0
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "requestId": "AABF679BA47790115D8A4CB0C361F76A"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceWillSendRequest",
+            "ph": "I",
+            "pid": 2114,
+            "s": "p",
+            "tid": 2114,
+            "ts": 263492111
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": ""
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 170,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2177,
+            "tdur": 151,
+            "tid": 1,
+            "ts": 263519803,
+            "tts": 15762
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "readystatechange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 6,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2177,
+            "tdur": 5,
+            "tid": 1,
+            "ts": 263520005,
+            "tts": 15945
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "MarkDOMContent",
+            "ph": "I",
+            "pid": 2177,
+            "s": "t",
+            "tid": 1,
+            "ts": 263520128,
+            "tts": 16017
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "readystatechange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 6,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2177,
+            "tdur": 5,
+            "tid": 1,
+            "ts": 263520204,
+            "tts": 16046
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "pagehide"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 22,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2177,
+            "tdur": 12,
+            "tid": 1,
+            "ts": 263816119,
+            "tts": 17940
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "visibilitychange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 5,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2177,
+            "tdur": 4,
+            "tid": 1,
+            "ts": 263816165,
+            "tts": 17977
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "webkitvisibilitychange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2177,
+            "tdur": 2,
+            "tid": 1,
+            "ts": 263816181,
+            "tts": 17992
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "unload"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "EventDispatch",
+            "ph": "B",
+            "pid": 2177,
+            "tid": 1,
+            "ts": 263816185,
+            "tts": 17996
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": ""
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 148,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 137,
+            "tid": 1,
+            "ts": 263863359,
+            "tts": 14769
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "readystatechange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 6,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 5,
+            "tid": 1,
+            "ts": 263863537,
+            "tts": 14936
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "MarkDOMContent",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263863729,
+            "tts": 15067
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "readystatechange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 5,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 4,
+            "tid": 1,
+            "ts": 263863767,
+            "tts": 15102
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+            },
+            "cat": "devtools.timeline",
+            "name": "FrameStartedLoading",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263866855,
+            "tts": 17619
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "pagehide"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 8,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2,
+            "tid": 1,
+            "ts": 263866877,
+            "tts": 17646
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "visibilitychange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 4,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 263866900,
+            "tts": 17664
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "webkitvisibilitychange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 2,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2,
+            "tid": 1,
+            "ts": 263866912,
+            "tts": 17676
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "unload"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 2,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2,
+            "tid": 1,
+            "ts": 263866916,
+            "tts": 17680
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "priority": "VeryHigh",
+                    "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+                    "requestMethod": "GET",
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceSendRequest",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263867268,
+            "tts": 17884
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 919,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "fromCache": false,
+                    "fromServiceWorker": false,
+                    "mimeType": "text/html",
+                    "requestId": "AABF679BA47790115D8A4CB0C361F76A",
+                    "responseTime": 1669743842425.321,
+                    "statusCode": 503,
+                    "timing": {
+                        "connectEnd": 255.217,
+                        "connectStart": 165.546,
+                        "dnsEnd": 165.546,
+                        "dnsStart": 139.173,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 308.163,
+                        "requestTime": 263.493467,
+                        "sendEnd": 272.391,
+                        "sendStart": 272.115,
+                        "sslEnd": 255.189,
+                        "sslStart": 168.148,
+                        "workerReady": -1,
+                        "workerStart": -1
+                    }
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceiveResponse",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263867334,
+            "tts": 17952
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "name": "",
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 7670,
+            "name": "CommitLoad",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 102,
+            "tid": 1,
+            "ts": 263868427,
+            "tts": 18540
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "chrome_latency_info": {
+                    "step": "STEP_SEND_INPUT_EVENT_UI",
+                    "trace_id": 3
+                }
+            },
+            "cat": "input,benchmark,devtools.timeline",
+            "dur": 47,
+            "name": "LatencyInfo.Flow",
+            "ph": "X",
+            "pid": 2114,
+            "tdur": 47,
+            "tid": 2114,
+            "ts": 263876965,
+            "tts": 152121
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "mouseout"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 47,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2158,
+            "tdur": 37,
+            "tid": 1,
+            "ts": 263877448,
+            "tts": 76495
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "chrome_latency_info": {
+                    "step": "STEP_SEND_INPUT_EVENT_UI",
+                    "trace_id": 4
+                }
+            },
+            "cat": "input,benchmark,devtools.timeline",
+            "dur": 25,
+            "name": "LatencyInfo.Flow",
+            "ph": "X",
+            "pid": 2114,
+            "tdur": 23,
+            "tid": 2114,
+            "ts": 263877592,
+            "tts": 152749
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "chrome_latency_info": {
+                    "step": "STEP_SEND_INPUT_EVENT_UI",
+                    "trace_id": 5
+                }
+            },
+            "cat": "input,benchmark,devtools.timeline",
+            "dur": 8,
+            "name": "LatencyInfo.Flow",
+            "ph": "X",
+            "pid": 2114,
+            "tdur": 7,
+            "tid": 2114,
+            "ts": 263877622,
+            "tts": 152778
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 8317,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "requestId": "AABF679BA47790115D8A4CB0C361F76A"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceivedData",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263878441,
+            "tts": 19247
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "pagehide"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 12,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2158,
+            "tdur": 7,
+            "tid": 1,
+            "ts": 263879207,
+            "tts": 76760
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "visibilitychange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2158,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 263879226,
+            "tts": 76774
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "webkitvisibilitychange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 4,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2158,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 263879233,
+            "tts": 76781
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "unload"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "EventDispatch",
+            "ph": "B",
+            "pid": 2158,
+            "tid": 1,
+            "ts": 263893671,
+            "tts": 76942
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "priority": "VeryHigh",
+                    "renderBlocking": "blocking",
+                    "requestId": "2188.2",
+                    "requestMethod": "GET",
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/styles/challenges.css"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceSendRequest",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263895245
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "priority": "Low",
+                    "requestId": "2188.3",
+                    "requestMethod": "GET",
+                    "url": "https://www.chaojidianshi.net/favicon.ico"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceSendRequest",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263896421
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 1,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "lineNumber": 1,
+                    "url": ""
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 338,
+            "name": "EvaluateScript",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 326,
+            "tid": 1,
+            "ts": 263915766,
+            "tts": 22666
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 1,
+                    "lineNumber": 1,
+                    "notStreamedReason": "inline script",
+                    "streamed": false,
+                    "url": ""
+                },
+                "fileName": ""
+            },
+            "cat": "v8,devtools.timeline",
+            "dur": 195,
+            "name": "v8.compile",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 198,
+            "tid": 1,
+            "ts": 263915812,
+            "tts": 22699
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                },
+                "elementCount": 0
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 73,
+            "name": "UpdateLayoutTree",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 69,
+            "tid": 1,
+            "ts": 263917091,
+            "tts": 23785
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": 88
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 16343,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 1040,
+            "tid": 1,
+            "ts": 263918533,
+            "tts": 24562
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "decodedBodyLength": 8317,
+                    "didFail": false,
+                    "encodedDataLength": 9263,
+                    "finishTime": 263.815252,
+                    "requestId": "AABF679BA47790115D8A4CB0C361F76A"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceFinish",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263935473,
+            "tts": 25915
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 157,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "fromCache": false,
+                    "fromServiceWorker": false,
+                    "mimeType": "text/css",
+                    "requestId": "2188.2",
+                    "responseTime": 1669743842567.9,
+                    "statusCode": 200,
+                    "timing": {
+                        "connectEnd": -1,
+                        "connectStart": -1,
+                        "dnsEnd": -1,
+                        "dnsStart": -1,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 26.923,
+                        "requestTime": 263.895728,
+                        "sendEnd": 23.219,
+                        "sendStart": 22.925,
+                        "sslEnd": -1,
+                        "sslStart": -1,
+                        "workerReady": -1,
+                        "workerStart": -1
+                    }
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceiveResponse",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263936899,
+            "tts": 26724
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 6294,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "requestId": "2188.2"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceivedData",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263953033,
+            "tts": 27515
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "styleSheetUrl": "https://www.chaojidianshi.net/cdn-cgi/styles/challenges.css"
+                }
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 255,
+            "name": "ParseAuthorStyleSheet",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 253,
+            "tid": 1,
+            "ts": 263953346,
+            "tts": 27826
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "decodedBodyLength": 6294,
+                    "didFail": false,
+                    "encodedDataLength": 2779,
+                    "finishTime": 263.952305,
+                    "requestId": "2188.2"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceFinish",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 263953794,
+            "tts": 28156
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 9,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "lineNumber": 46,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 104745,
+            "name": "EvaluateScript",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 6037,
+            "tid": 1,
+            "ts": 263954061,
+            "tts": 28318
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 9,
+                    "lineNumber": 46,
+                    "notStreamedReason": "inline script",
+                    "streamed": false,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "fileName": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+            },
+            "cat": "v8,devtools.timeline",
+            "dur": 299,
+            "name": "v8.compile",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 242,
+            "tid": 1,
+            "ts": 263954311,
+            "tts": 28360
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "priority": "Low",
+                    "renderBlocking": "non_blocking",
+                    "requestId": "2188.6",
+                    "requestMethod": "GET",
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceSendRequest",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264050952
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "priority": "Low",
+                    "requestId": "2188.7",
+                    "requestMethod": "GET",
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/images/trace/jsch/js/transparent.gif?ray=771d26271cd35b3a"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceSendRequest",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264058512
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                },
+                "elementCount": 16
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 38823,
+            "name": "UpdateLayoutTree",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 1479,
+            "tid": 1,
+            "ts": 264060001,
+            "tts": 34796
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "dirtyObjects": 13,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "partialLayout": false,
+                    "totalObjects": 13
+                },
+                "endData": {
+                    "layoutRoots": [
+                        {
+                            "depth": 1,
+                            "nodeId": 1,
+                            "quads": [
+                                [
+                                    0,
+                                    0,
+                                    800,
+                                    0,
+                                    800,
+                                    600,
+                                    0,
+                                    600
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 51863,
+            "name": "Layout",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3916,
+            "tid": 1,
+            "ts": 264098850,
+            "tts": 36306
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "priority": "High",
+                    "requestId": "2188.3"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 34,
+            "name": "ResourceChangePriority",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 24,
+            "tid": 1,
+            "ts": 264150623,
+            "tts": 40131
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 188,
+            "name": "PrePaint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 181,
+            "tid": 1,
+            "ts": 264150929,
+            "tts": 40311
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        -16777215,
+                        -16777215,
+                        16777216,
+                        -16777215,
+                        16777216,
+                        16777216,
+                        -16777215,
+                        16777216
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 0,
+                    "nodeId": 1
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "dur": 6473,
+            "name": "Paint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 262,
+            "tid": 1,
+            "ts": 264151210,
+            "tts": 40589
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        0,
+                        0,
+                        800,
+                        0,
+                        800,
+                        600,
+                        0,
+                        600
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 4
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264157972,
+            "tts": 41073
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "load"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 13,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 9,
+            "tid": 1,
+            "ts": 264159311,
+            "tts": 41448
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 372,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "fromCache": false,
+                    "fromServiceWorker": false,
+                    "mimeType": "image/x-icon",
+                    "requestId": "2188.3",
+                    "responseTime": 1669743842637.118,
+                    "statusCode": 200,
+                    "timing": {
+                        "connectEnd": -1,
+                        "connectStart": -1,
+                        "dnsEnd": -1,
+                        "dnsStart": -1,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 73.681,
+                        "requestTime": 263.918319,
+                        "sendEnd": 0.664,
+                        "sendStart": 0.554,
+                        "sslEnd": -1,
+                        "sslStart": -1,
+                        "workerReady": -1,
+                        "workerStart": -1
+                    }
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceiveResponse",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264160066,
+            "tts": 41805
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 22486,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "requestId": "2188.3"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceivedData",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264160177,
+            "tts": 41881
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "navigationId": "AABF679BA47790115D8A4CB0C361F76A"
+                },
+                "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+            },
+            "cat": "loading,rail,devtools.timeline",
+            "name": "firstPaint",
+            "ph": "R",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264170712
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "navigationId": "AABF679BA47790115D8A4CB0C361F76A"
+                },
+                "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+            },
+            "cat": "loading,rail,devtools.timeline",
+            "name": "firstContentfulPaint",
+            "ph": "R",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264170712
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "navigationId": "AABF679BA47790115D8A4CB0C361F76A"
+                },
+                "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+            },
+            "cat": "loading,rail,devtools.timeline",
+            "name": "firstMeaningfulPaintCandidate",
+            "ph": "R",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264170712
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "candidateIndex": 1,
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "navigationId": "AABF679BA47790115D8A4CB0C361F76A",
+                    "nodeId": 2,
+                    "size": 45504,
+                    "type": "text"
+                },
+                "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+            },
+            "cat": "loading,rail,devtools.timeline",
+            "name": "largestContentfulPaint::Candidate",
+            "ph": "R",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264170713
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "decodedBodyLength": 22486,
+                    "didFail": false,
+                    "encodedDataLength": 10355,
+                    "finishTime": 263.993912,
+                    "requestId": "2188.3"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceFinish",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264177138,
+            "tts": 42633
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 89,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0"
+                },
+                "endData": {
+                    "endLine": 101
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 133,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 130,
+            "tid": 1,
+            "ts": 264177377,
+            "tts": 42792
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 214,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "fromCache": false,
+                    "fromServiceWorker": false,
+                    "mimeType": "image/gif",
+                    "requestId": "2188.7",
+                    "responseTime": 1669743842720.554,
+                    "statusCode": 200,
+                    "timing": {
+                        "connectEnd": -1,
+                        "connectStart": -1,
+                        "dnsEnd": -1,
+                        "dnsStart": -1,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 15.064,
+                        "requestTime": 264.060182,
+                        "sendEnd": 0.543,
+                        "sendStart": 0.441,
+                        "sslEnd": -1,
+                        "sslStart": -1,
+                        "workerReady": -1,
+                        "workerStart": -1
+                    }
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceiveResponse",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264177683,
+            "tts": 43099
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 42,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "requestId": "2188.7"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceivedData",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264177838,
+            "tts": 43146
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "decodedBodyLength": 42,
+                    "didFail": false,
+                    "encodedDataLength": 258,
+                    "finishTime": 264.07727,
+                    "requestId": "2188.7"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceFinish",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264186601,
+            "tts": 43707
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 487,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "fromCache": false,
+                    "fromServiceWorker": false,
+                    "mimeType": "application/javascript",
+                    "requestId": "2188.6",
+                    "responseTime": 1669743842722.902,
+                    "statusCode": 200,
+                    "timing": {
+                        "connectEnd": 0,
+                        "connectStart": 0,
+                        "dnsEnd": 0,
+                        "dnsStart": 0,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 25.217,
+                        "requestTime": 264.052438,
+                        "sendEnd": 0.957,
+                        "sendStart": 0.538,
+                        "sslEnd": 0,
+                        "sslStart": 0,
+                        "workerReady": -1,
+                        "workerStart": -1
+                    }
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceiveResponse",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264186953,
+            "tts": 43980
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 53188,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "requestId": "2188.6"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceivedData",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264187046,
+            "tts": 44043
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "requestId": "2188.6",
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+                }
+            },
+            "cat": "v8,devtools.timeline,disabled-by-default-v8.compile",
+            "dur": 2268,
+            "name": "v8.parseOnBackground",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2261,
+            "tid": 3,
+            "ts": 264187362,
+            "tts": 1412
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "v8,devtools.timeline,disabled-by-default-v8.compile",
+            "dur": 2191,
+            "name": "v8.parseOnBackgroundParsing",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2192,
+            "tid": 3,
+            "ts": 264187427,
+            "tts": 1471
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "load"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 9,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 7,
+            "tid": 1,
+            "ts": 264187643,
+            "tts": 44506
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 102,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0"
+                },
+                "endData": {
+                    "endLine": 101
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 6,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 4,
+            "tid": 1,
+            "ts": 264187663,
+            "tts": 44526
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 102,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html?__cf_chl_rt_tk=LB24KvpH_HkYDt3ggkbDtWNuLDId9McUpHExxjKjFuY-1669743842-0-gaNycGzNCD0"
+                },
+                "endData": {
+                    "endLine": 101
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2,
+            "tid": 1,
+            "ts": 264187673,
+            "tts": 44535
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "readystatechange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 264187681,
+            "tts": 44542
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "DOMContentLoaded"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 2,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2,
+            "tid": 1,
+            "ts": 264187688,
+            "tts": 44549
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                },
+                "elementCount": 8
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 10250,
+            "name": "UpdateLayoutTree",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 492,
+            "tid": 1,
+            "ts": 264187700,
+            "tts": 44561
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "MarkDOMContent",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264198128,
+            "tts": 45155
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "dirtyObjects": 19,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "partialLayout": false,
+                    "totalObjects": 29
+                },
+                "endData": {
+                    "layoutRoots": [
+                        {
+                            "depth": 1,
+                            "nodeId": 1,
+                            "quads": [
+                                [
+                                    0,
+                                    0,
+                                    800,
+                                    0,
+                                    800,
+                                    600,
+                                    0,
+                                    600
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 6114,
+            "name": "Layout",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 1171,
+            "tid": 1,
+            "ts": 264198626,
+            "tts": 45366
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 109,
+            "name": "PrePaint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 107,
+            "tid": 1,
+            "ts": 264204791,
+            "tts": 46583
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "endData": {
+                    "move": true,
+                    "nodeId": 3,
+                    "nodeName": "DIV class='main-wrapper'",
+                    "rectilinear": true,
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 22,
+            "name": "HitTest",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 28,
+            "tid": 1,
+            "ts": 264204908,
+            "tts": 46697
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "mouseover"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 64,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 7,
+            "tid": 1,
+            "ts": 264205023,
+            "tts": 46815
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 12,
+            "name": "PrePaint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 10,
+            "tid": 1,
+            "ts": 264205121,
+            "tts": 46859
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        -16777215,
+                        -16777215,
+                        16777216,
+                        -16777215,
+                        16777216,
+                        16777216,
+                        -16777215,
+                        16777216
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 0,
+                    "nodeId": 1
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "dur": 9265,
+            "name": "Paint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 282,
+            "tid": 1,
+            "ts": 264205149,
+            "tts": 46888
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        24,
+                        140,
+                        776,
+                        140,
+                        776,
+                        582,
+                        24,
+                        582
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 4
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264214462,
+            "tts": 47222
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "endData": {
+                    "nodeId": 2,
+                    "nodeName": "DIV id='challenge-body-text' class='core-msg spacer'",
+                    "rectilinear": true,
+                    "x": 400,
+                    "y": 300
+                }
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 19,
+            "name": "HitTest",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 24,
+            "tid": 1,
+            "ts": 264214654,
+            "tts": 47330
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "endData": {
+                    "nodeId": 5,
+                    "nodeName": "DIV class='ray-id'",
+                    "rectilinear": true,
+                    "x": 400,
+                    "y": 540
+                }
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 17,
+            "name": "HitTest",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 20,
+            "tid": 1,
+            "ts": 264214685,
+            "tts": 47361
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "load"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 8,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 6,
+            "tid": 1,
+            "ts": 264215117,
+            "tts": 47447
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "decodedBodyLength": 53188,
+                    "didFail": false,
+                    "encodedDataLength": 24033,
+                    "finishTime": 264.08019,
+                    "requestId": "2188.6"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceFinish",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264216039,
+            "tts": 47849
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 1,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "lineNumber": 1,
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 16777,
+            "name": "EvaluateScript",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 2573,
+            "tid": 1,
+            "ts": 264216194,
+            "tts": 47973
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 1,
+                    "lineNumber": 1,
+                    "streamed": true,
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+                },
+                "fileName": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+            },
+            "cat": "v8,devtools.timeline",
+            "dur": 47,
+            "name": "v8.compile",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 48,
+            "tid": 1,
+            "ts": 264216211,
+            "tts": 47986
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "navigationId": "AABF679BA47790115D8A4CB0C361F76A"
+                },
+                "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+            },
+            "cat": "loading,rail,devtools.timeline",
+            "name": "firstImagePaint",
+            "ph": "R",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264227765
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "singleShot": true,
+                    "timeout": 0,
+                    "timerId": 1
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "TimerInstall",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264232658,
+            "tts": 50239
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "load"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 593,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 377,
+            "tid": 1,
+            "ts": 264232988,
+            "tts": 50564
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 34,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "functionName": "cpo.onload",
+                    "lineNumber": 84,
+                    "scriptId": "6",
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 327,
+            "name": "FunctionCall",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 230,
+            "tid": 1,
+            "ts": 264233225,
+            "tts": 50682
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "timerId": 1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 102792,
+            "name": "TimerFire",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 7294,
+            "tid": 1,
+            "ts": 264233763,
+            "tts": 51125
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "columnNumber": 13989,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "functionName": "",
+                    "lineNumber": 1,
+                    "scriptId": "7",
+                    "url": "https://www.chaojidianshi.net/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=771d26271cd35b3a"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 95614,
+            "name": "FunctionCall",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 6740,
+            "tid": 1,
+            "ts": 264233777,
+            "tts": 51235
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 114,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 109,
+            "tid": 1,
+            "ts": 264326289,
+            "tts": 55054
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 5,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 4,
+            "tid": 1,
+            "ts": 264326409,
+            "tts": 55169
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 37,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 35,
+            "tid": 1,
+            "ts": 264326538,
+            "tts": 55299
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 264326578,
+            "tts": 55337
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 47,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 46,
+            "tid": 1,
+            "ts": 264326697,
+            "tts": 55458
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "startLine": 0,
+                    "url": "https://www.chaojidianshi.net/zhibo/nowtv.html"
+                },
+                "endData": {
+                    "endLine": -1
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "ParseHTML",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 264326748,
+            "tts": 55507
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "singleShot": true,
+                    "timeout": 1000,
+                    "timerId": 2
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "TimerInstall",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264328435,
+            "tts": 57201
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "singleShot": true,
+                    "timeout": 100,
+                    "timerId": 3
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "TimerInstall",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264329375,
+            "tts": 57964
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "priority": "Low",
+                    "requestId": "2188.8",
+                    "requestMethod": "GET",
+                    "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA0CAMAAADypuvZAAAANlBMVEUAAAAxMTEwMDAxMTExMTEwMDAwMDAwMDAxMTExMTExMTEwMDAwMDAxMTExMTEwMDAwMDAxMTHB9N+uAAAAEXRSTlMA3zDvfyBAEJC/n3BQz69gX7VMkcMAAAGySURBVEjHnZZbFoMgDEQJiDzVuv/NtgbtFGuQ4/zUKpeMIQbUhXSKE5l1XSn4pFWHRm/WShT1HRLWC01LGxFEVkCc30eYkLJ1Sjk9pvkw690VY6k8DWP9OM9yMG0Koi+mi8XA36NXmW0UXra4eJ3iwHfrfXVlgL0NqqGBHdqfeQhMmyJ48WDuKP81h3+SMPeRKkJcSXiLUK4XTHCjESOnz1VUXQoc6lgi2x4cI5aTQ201Mt8wHysI5fc05M5c81uZEtHcMKhxZ7iYEty1GfhLvGKpm+EYkdGxm1F5axmcB93DoORIbXfdN7f+hlFuyxtDP+sxtBnF43cIYwaZAWRgzxIoiXEMESoPlMhwLRDXeK772CAzXEdBRV7cmnoVBp0OSlyGidEzJTFq5hhcsA5388oSGM6b5p+qjpZrBlMS9xj4AwXmz108ukU1IomM3ceiW0CDwHCqp1NjAqXlFrbga+xuloQJ+tuyfbIBPNpqnmxqT7dPaOnZqBfhSBCteJAxWj58zLk2xgg+SPGYM6dRO6WczSnIxxwEExRaO+UyCUhbOp7CGQ+kxSUfNtLQFC+Po29vvy7jj4y0yAAAAABJRU5ErkJggg=="
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceSendRequest",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264336386
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "requestId": "2188.8"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceMarkAsCached",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264336467,
+            "tts": 58332
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 0,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "fromCache": false,
+                    "fromServiceWorker": false,
+                    "mimeType": "image/png",
+                    "requestId": "2188.8",
+                    "statusCode": 200
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceiveResponse",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264336492,
+            "tts": 58358
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "encodedDataLength": 586,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "requestId": "2188.8"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceReceivedData",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264336509,
+            "tts": 58374
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "decodedBodyLength": 0,
+                    "didFail": false,
+                    "encodedDataLength": 0,
+                    "requestId": "2188.8"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "ResourceFinish",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264336515,
+            "tts": 58379
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                },
+                "elementCount": 14
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 831,
+            "name": "UpdateLayoutTree",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 683,
+            "tid": 1,
+            "ts": 264336728,
+            "tts": 58606
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "dirtyObjects": 18,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "partialLayout": false,
+                    "totalObjects": 42
+                },
+                "endData": {
+                    "layoutRoots": [
+                        {
+                            "depth": 1,
+                            "nodeId": 1,
+                            "quads": [
+                                [
+                                    0,
+                                    0,
+                                    800,
+                                    0,
+                                    800,
+                                    600,
+                                    0,
+                                    600
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 1743,
+            "name": "Layout",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 855,
+            "tid": 1,
+            "ts": 264337573,
+            "tts": 59308
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 322,
+            "name": "PrePaint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 246,
+            "tid": 1,
+            "ts": 264339495,
+            "tts": 60337
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "endData": {
+                    "move": true,
+                    "nodeId": 3,
+                    "nodeName": "DIV class='main-wrapper'",
+                    "rectilinear": true,
+                    "x": 0,
+                    "y": 0
+                }
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 26,
+            "name": "HitTest",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 32,
+            "tid": 1,
+            "ts": 264339824,
+            "tts": 60589
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 13,
+            "name": "PrePaint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 11,
+            "tid": 1,
+            "ts": 264339999,
+            "tts": 60698
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        -16777215,
+                        -16777215,
+                        16777216,
+                        -16777215,
+                        16777216,
+                        16777216,
+                        -16777215,
+                        16777216
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 0,
+                    "nodeId": 1
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "dur": 239,
+            "name": "Paint",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 237,
+            "tid": 1,
+            "ts": 264340039,
+            "tts": 60738
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        0,
+                        0,
+                        785,
+                        0,
+                        785,
+                        780,
+                        0,
+                        780
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 4
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264340424,
+            "tts": 61125
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        0,
+                        0,
+                        30,
+                        0,
+                        30,
+                        30,
+                        0,
+                        30
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 5
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264340433,
+            "tts": 61131
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        0,
+                        0,
+                        30,
+                        0,
+                        30,
+                        30,
+                        0,
+                        30
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 6
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264340437,
+            "tts": 61134
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        0,
+                        0,
+                        30,
+                        0,
+                        30,
+                        30,
+                        0,
+                        30
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 7
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264340440,
+            "tts": 61137
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        0,
+                        0,
+                        30,
+                        0,
+                        30,
+                        30,
+                        0,
+                        30
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 8
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264340442,
+            "tts": 61140
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "clip": [
+                        785,
+                        0,
+                        800,
+                        0,
+                        800,
+                        600,
+                        785,
+                        600
+                    ],
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "layerId": 9
+                }
+            },
+            "cat": "devtools.timeline,rail",
+            "name": "Paint",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264340445,
+            "tts": 61143
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "load"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 11,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 8,
+            "tid": 1,
+            "ts": 264341043,
+            "tts": 61611
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "readystatechange"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 264341060,
+            "tts": 61625
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "load"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 3,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 3,
+            "tid": 1,
+            "ts": 264341072,
+            "tts": 61637
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "isMainFrame": true,
+                    "isOutermostMainFrame": true,
+                    "page": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                }
+            },
+            "cat": "devtools.timeline",
+            "name": "MarkLoad",
+            "ph": "I",
+            "pid": 2188,
+            "s": "t",
+            "tid": 1,
+            "ts": 264341089,
+            "tts": 61659
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "type": "pageshow"
+                }
+            },
+            "cat": "devtools.timeline",
+            "dur": 5,
+            "name": "EventDispatch",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 4,
+            "tid": 1,
+            "ts": 264341246,
+            "tts": 61686
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "beginData": {
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73"
+                },
+                "elementCount": 0
+            },
+            "cat": "blink,devtools.timeline",
+            "dur": 22,
+            "name": "UpdateLayoutTree",
+            "ph": "X",
+            "pid": 2188,
+            "tdur": 18,
+            "tid": 1,
+            "ts": 264341571,
+            "tts": 61734
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2140,
+            "tid": 2142,
+            "ts": 264347474
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 2153,
+            "ts": 264347711
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -1
+            },
+            "cat": "__metadata",
+            "name": "process_sort_index",
+            "ph": "M",
+            "pid": 2136,
+            "tid": 2153,
+            "ts": 264347732
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2132,
+            "ts": 264347872
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -6
+            },
+            "cat": "__metadata",
+            "name": "process_sort_index",
+            "ph": "M",
+            "pid": 2114,
+            "tid": 2132,
+            "ts": 264347892
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2166,
+            "tid": 5,
+            "ts": 264350284
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "number": 2
+            },
+            "cat": "__metadata",
+            "name": "num_cpus",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 1,
+            "ts": 264350533
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -5
+            },
+            "cat": "__metadata",
+            "name": "process_sort_index",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 1,
+            "ts": 264350540
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "labels": "Just a moment..."
+            },
+            "cat": "__metadata",
+            "name": "process_labels",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 1,
+            "ts": 264350543
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "sort_index": -1
+            },
+            "cat": "__metadata",
+            "name": "thread_sort_index",
+            "ph": "M",
+            "pid": 2188,
+            "tid": 1,
+            "ts": 264350545
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": true,
+                    "duration": 0,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 4110,
+                    "processingStart": 4110,
+                    "timeStamp": 4109,
+                    "type": "pointerout"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x6cd460aa",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 0,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 4110,
+                    "processingStart": 4110,
+                    "timeStamp": 4109,
+                    "type": "pointerleave"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x6b1065e6",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 0,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 4110,
+                    "processingStart": 4110,
+                    "timeStamp": 4109,
+                    "type": "pointerleave"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x6b1065e6",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": true,
+                    "duration": 0,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 2,
+                    "processingEnd": 4110,
+                    "processingStart": 4110,
+                    "timeStamp": 4109,
+                    "type": "mouseout"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0x56fb54f0",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877061
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x56fb54f0",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877520
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x6b1065e6",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877520
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x6b1065e6",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877520
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0x6cd460aa",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2158,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 263877520
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": true,
+                    "duration": 32,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 713,
+                    "processingStart": 713,
+                    "timeStamp": 707,
+                    "type": "pointerover"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0xee52b6a1",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264198571
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 32,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 713,
+                    "processingStart": 713,
+                    "timeStamp": 707,
+                    "type": "pointerenter"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264198571
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 32,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 713,
+                    "processingStart": 713,
+                    "timeStamp": 707,
+                    "type": "pointerenter"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264198571
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 32,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 713,
+                    "processingStart": 713,
+                    "timeStamp": 707,
+                    "type": "pointerenter"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264198571
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": false,
+                    "duration": 32,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 0,
+                    "processingEnd": 713,
+                    "processingStart": 713,
+                    "timeStamp": 707,
+                    "type": "pointerenter"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264198571
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "cancelable": true,
+                    "duration": 32,
+                    "frame": "905CEA5DC70D5FE8EC0CC2318FF9BD73",
+                    "interactionId": 0,
+                    "nodeId": 3,
+                    "processingEnd": 713,
+                    "processingStart": 713,
+                    "timeStamp": 707,
+                    "type": "mouseover"
+                }
+            },
+            "cat": "devtools.timeline",
+            "id": "0xf07551b7",
+            "name": "EventTiming",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264198571
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0xf07551b7",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264227766
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264227766
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264227766
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264227766
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0xf006f86d",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264227766
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {},
+            "cat": "devtools.timeline",
+            "id": "0xee52b6a1",
+            "name": "EventTiming",
+            "ph": "e",
+            "pid": 2188,
+            "scope": "devtools.timeline",
+            "tid": 1,
+            "ts": 264227766
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "id": "1",
+                    "name": "",
+                    "nodeId": 6,
+                    "nodeName": "DIV",
+                    "state": "running"
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010f4c8"
+            },
+            "name": "Animation",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264339374
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "id": "2",
+                    "name": "",
+                    "nodeId": 7,
+                    "nodeName": "DIV",
+                    "state": "running"
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010f810"
+            },
+            "name": "Animation",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264339404
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "id": "3",
+                    "name": "",
+                    "nodeId": 8,
+                    "nodeName": "DIV",
+                    "state": "running"
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010fb58"
+            },
+            "name": "Animation",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264339412
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "id": "4",
+                    "name": "",
+                    "nodeId": 9,
+                    "nodeName": "DIV",
+                    "state": "running"
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010fea0"
+            },
+            "name": "Animation",
+            "ph": "b",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264339434
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "compositeFailed": 0
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010f4c8"
+            },
+            "name": "Animation",
+            "ph": "n",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264340513
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "compositeFailed": 0
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010f810"
+            },
+            "name": "Animation",
+            "ph": "n",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264340537
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "compositeFailed": 0
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010fb58"
+            },
+            "name": "Animation",
+            "ph": "n",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264340551
+        }
+    },
+    {
+        "method": "Tracing.dataCollected",
+        "params": {
+            "args": {
+                "data": {
+                    "compositeFailed": 0
+                }
+            },
+            "cat": "blink.animations,devtools.timeline,benchmark,rail",
+            "id2": {
+                "local": "0x22890010fea0"
+            },
+            "name": "Animation",
+            "ph": "n",
+            "pid": 2188,
+            "scope": "blink.animations,devtools.timeline,benchmark,rail",
+            "tid": 1,
+            "ts": 264340564
+        }
+    }
+]
