@@ -10,9 +10,18 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 def scrape(sniff_urls: [str]):
     print("Starting Selenium...")
+
     options = webdriver.ChromeOptions()
-    options.headless = True
-    # options.add_argument("--user-data-dir=/Users/masa/Library/Application Support/Google/Chrome/")
+    for option in [
+        "--headless",
+        "--disable-gpu",
+        "--window-size=1920,1200",
+        "--ignore-certificate-errors",
+        "--disable-extensions",
+        "--no-sandbox",
+        "--disable-dev-shm-usage"]:
+        options.add_argument(option)
+
     caps = DesiredCapabilities().CHROME
     caps['goog:loggingPrefs'] = {'performance': 'ALL'}
 
